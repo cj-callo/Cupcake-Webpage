@@ -1,5 +1,21 @@
 p.flashy {
   font-style: italic;
-  font-weight: lighter;
   color: pink;
+  font-size: 20px
+}
+h4.best {
+  font-weight: bolder;
+  font-family: cursive;
+  font-size: 25px;
+
+}
+
+.important {
+  font-weight: bolder;
+
+}
+.cupcake {
+  font-style: italic;
+  color: gold;
+  
 }
